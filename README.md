@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle related projects
+Machine learning and data analysis
